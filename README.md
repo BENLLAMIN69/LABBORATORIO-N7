@@ -14,7 +14,7 @@
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/LAB7.1.png)
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/LAB7.2.png)
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/LAB7.3.png)
-
+![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/png%20(16).png)
 - Materiales
 
 |Cantidad| Material o Equipo|
