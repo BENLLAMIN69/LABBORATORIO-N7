@@ -15,6 +15,19 @@
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/LAB7.2.png)
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/LAB7.3.png)
 
+- Materiales
+
+|Cantidad| Material o Equipo|
+|--------|------------------|
+|1| Generador de señales|
+|2| Fuente DC|
+|1| Osciloscopio.|
+|1| Protoboard|
+|1| Multímetro|
+|1| Cables conductores|
+|-| Resistencias, bobinas y capacitores.|
+
+
 # VIDEO
 https://youtu.be/nSUmUPIQ5lM
 
