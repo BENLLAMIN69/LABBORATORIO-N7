@@ -160,6 +160,8 @@ Los valores eficaces son los que se conoce como RMS (roor mean square), donde si
 https://youtu.be/nSUmUPIQ5lM
 
 # Conclusiones
-
+- Con forme a lo realizado se ha podido medir y verificar las ondas sinusoidales que nos muestra el osciloscopio con las frecuencias dadas, de tal manera que se observo los cambios de amplitud de onda de las frecuencias al momento de cambiar los valores.
+- La corriente actúa como un almacenamiento. El dispositivo de energía se cargará y descargará de acuerdo con el voltaje, también se cargará y descargará de acuerdo con la frecuencia de oscilación transmitida desde la fuente, su comportamiento dependerá de su función dentro del tiempo especificado.
+- Si sabemos que la corriente alterna está en un estado constante de la bobina, su campo magnético mantendrá una expansión constante cuando su valor aumente y disminuirá cuando su valor disminuya. Por lo tanto, la corriente generalmente produce un retardo de señal.
 # Bibliografía
 - Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
