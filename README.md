@@ -133,8 +133,13 @@
 # Análisis de resultados
 
 1. Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+-CAPACITORES:
 
 ![image](https://user-images.githubusercontent.com/93900233/152936916-561fbc2e-ded3-49f6-9841-09a5b358d6e7.png)
+
+-INDUCTORES:
+
+![image](https://user-images.githubusercontent.com/93900233/153003992-46b2da8f-32a5-4d1e-bd14-5d8de0c6b203.png)
 
 
 # Preguntas
