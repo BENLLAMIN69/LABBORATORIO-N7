@@ -32,18 +32,7 @@
 
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/Captura%20de%20pantalla%202022-02-08%20010420.png)
 
-1. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
-2. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
-3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
-
-- Construya el circuito mostrado en la Figura 2
-
-![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/Captura%20de%20pantalla%202022-02-08%20010445.png)
-
-1. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
- - 0 HZ
-  
- ![image](https://user-images.githubusercontent.com/93900233/152934899-1a93de25-4275-4757-b3f2-69bd659a9951.png)
+![image](https://user-images.githubusercontent.com/93900233/152934899-1a93de25-4275-4757-b3f2-69bd659a9951.png)
  
  - 10 HZ
  
@@ -91,15 +80,83 @@
 
 ![image](https://user-images.githubusercontent.com/93900233/152935445-57fcfc01-6b03-4362-a11f-81e0d96e178c.png)
 
+3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+- Construya el circuito mostrado en la Figura 2
+
+![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/Captura%20de%20pantalla%202022-02-08%20010445.png)
+
+1. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+ - 0 HZ
+  
+ 
+ 
+ - 10 HZ
+ - 
+ ![image](https://user-images.githubusercontent.com/93900233/152937529-c1f61630-02be-4b39-b6b4-3590a46ae5be.png)
+
+ - 50 HZ
+ 
+![image](https://user-images.githubusercontent.com/93900233/152937589-6a8c5ec1-4d7a-4325-808e-4ffd721cf334.png)
+
+ - 100 HZ
+ 
+ ![image](https://user-images.githubusercontent.com/93900233/152937628-e030bcd8-b3ea-44a7-9ecc-c4977215e176.png)
+ 
+ - 500 HZ
+ 
+![image](https://user-images.githubusercontent.com/93900233/152937670-00482724-a12b-4549-a21c-a2049b750d46.png)
+ 
+ - 1000HZ
+
+![image](https://user-images.githubusercontent.com/93900233/152937734-38c1f4ad-6536-467e-938d-6f2abe59ec6d.png)
+
+
+2. Utilice un multímetro para medir el voltaje Y la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+ - 0 HZ
+
+
+ - 10 HZ
+ 
+![image](https://user-images.githubusercontent.com/93900233/152937909-b592a147-4dac-4c42-afe0-0bde6876453e.png)
+
+ - 50 HZ
+ 
+![image](https://user-images.githubusercontent.com/93900233/152937933-8768da88-c8ec-49e1-8e37-d31444239d1c.png)
+
+ - 100 HZ
+ 
+![image](https://user-images.githubusercontent.com/93900233/152937983-dc3c4ace-b0b3-4b3e-a73b-32170e8e5cef.png)
+ 
+ - 500 HZ
+ 
+![image](https://user-images.githubusercontent.com/93900233/152938024-6f2cf8f5-c68f-42b7-9178-fdf463970c88.png)
+ 
+ - 1000HZ
+
+![image](https://user-images.githubusercontent.com/93900233/152938063-b03fd247-5d83-4164-9dba-953324e3111d.png)
+
+
 # Análisis de resultados
 
 1. Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+![image](https://user-images.githubusercontent.com/93900233/152936916-561fbc2e-ded3-49f6-9841-09a5b358d6e7.png)
+
+COMENTARIO:
+
 
 # Preguntas
 1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 3. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
-4. ¿Qué son los valores eficaces de voltaje y corriente?
+CAPACITORES DIFERENTES
+
+
+
+
+5. ¿Qué son los valores eficaces de voltaje y corriente?
 
 # Video
 https://youtu.be/nSUmUPIQ5lM
