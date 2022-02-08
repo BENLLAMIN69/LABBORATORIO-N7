@@ -27,8 +27,30 @@
 |1| Cables conductores|
 |-| Resistencias, bobinas y capacitores.|
 
+# Procedimiento
+- Construya en el protoboard el circuito mostrado en la Figura 1.
 
-# VIDEO
+1. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+2. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+- Construya el circuito mostrado en la Figura 2
+
+1. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+2. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+# Análisis de resultados
+
+1. Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+# Preguntas
+1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+3. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+4. ¿Qué son los valores eficaces de voltaje y corriente?
+
+# Video
 https://youtu.be/nSUmUPIQ5lM
 
 # Conclusiones
