@@ -11,5 +11,14 @@
 
 # Marco teórico
 
+![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/LAB7.1.png)
+![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/LAB7.2.png)
+![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/LAB7.3.png)
+
 # VIDEO
 https://youtu.be/nSUmUPIQ5lM
+
+# Conclusiones
+
+# Bibliografía
+- Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
