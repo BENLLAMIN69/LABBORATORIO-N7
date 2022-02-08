@@ -87,12 +87,7 @@
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/Captura%20de%20pantalla%202022-02-08%20010445.png)
 
 1. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
- - 0 HZ
-  
- 
- 
- - 10 HZ
- - 
+ - 10 HZ 
  ![image](https://user-images.githubusercontent.com/93900233/152937529-c1f61630-02be-4b39-b6b4-3590a46ae5be.png)
 
  - 50 HZ
@@ -113,9 +108,6 @@
 
 
 2. Utilice un multímetro para medir el voltaje Y la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
-
- - 0 HZ
-
 
  - 10 HZ
  
@@ -144,19 +136,25 @@
 
 ![image](https://user-images.githubusercontent.com/93900233/152936916-561fbc2e-ded3-49f6-9841-09a5b358d6e7.png)
 
-COMENTARIO:
-
 
 # Preguntas
 1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+La corriente continua, es decir, con una frecuaencia de 0 [Hz] en un capacitor como en una bobina ftienen un comportamiento de manera opuesto a su función, el capacitor almacena y guarda energia, al momento de corriente continua ocurre una fuga de energía que lo dejaría como un circuito abierto. 
+La bobina como almacena corriente y se conecta en serie al momento de colocar los 0 Hz se comporta como un corto-circuito esto provocare que el paso de la corriente se interrumpida. 
+
 2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+La corriente alterna esta en un estado variable constante a su campo magnético, esto debido a sus líneas de fuerzas que mantendrán en constante expansión con esto aumentando su valor y este decrecerá cuando disminuya su valor por lo cual la corriente en general generará un retraso de señal.
+El capacitor en corriente se va a cargar y descargar de acuerdo al voltaje y tambien dependerá de la frecuencia de oscilación que es transmitido desde la fuente esto en un tiempo definido. 
+
 3. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
-CAPACITORES DIFERENTES
 
+El voltaje y la corriente en el circuito al momento de cambiar el valor del capacitor ya sea mayor o menor al indicado, su voltaje aumentará o disminuirá en una pequeña variación, pero si el condensador es de alto almacenamiento de energía el voltaje tendrá un gran cambio al momento del condensador almacene su energía, tambien sucedera con la corriente. En el segundo circuito, el voltaje depende del valor de las bobinas, esto provocara el aumento o una disminucion, si la bobina cambia de valor aumentando o disminuyendo y ls corriente se mantendrá constante.
 
+4. ¿Qué son los valores eficaces de voltaje y corriente?
 
-
-5. ¿Qué son los valores eficaces de voltaje y corriente?
+Los valores eficaces son los que se conoce como RMS (roor mean square), donde significa raiz cuadrada de la media, donde el volatje produce la misma cantidad de calor en la corriente alterna, por otro lado la corriente eficaz puede referirse a la corriente producida por el voltaje eficaz.
 
 # Video
 https://youtu.be/nSUmUPIQ5lM
