@@ -32,6 +32,8 @@
 
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/Captura%20de%20pantalla%202022-02-08%20010420.png)
 
+- 0 HZ
+
 ![image](https://user-images.githubusercontent.com/93900233/152934899-1a93de25-4275-4757-b3f2-69bd659a9951.png)
  
  - 10 HZ
