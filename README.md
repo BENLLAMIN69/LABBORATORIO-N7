@@ -87,6 +87,10 @@
 ![](https://github.com/BENLLAMIN69/LABBORATORIO-N7/blob/main/IMA/Captura%20de%20pantalla%202022-02-08%20010445.png)
 
 1. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+- 0HZ 
+![image](https://user-images.githubusercontent.com/93900233/153426503-662c0d00-4122-43d0-b906-9f2e2ba2bd22.png)
+
+
  - 10 HZ 
  ![image](https://user-images.githubusercontent.com/93900233/152937529-c1f61630-02be-4b39-b6b4-3590a46ae5be.png)
 
@@ -108,6 +112,9 @@
 
 
 2. Utilice un multímetro para medir el voltaje Y la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+- 0HZ
+
+![image](https://user-images.githubusercontent.com/93900233/153426195-420c95e3-b2d4-4eb1-806d-f31337797e35.png)
 
  - 10 HZ
  
